@@ -1,0 +1,9 @@
+virtual machines 
+storage
+networking
+database
+keyvault
+load balancers
+auto scaling
+azure kubernetes service
+azure container registry
