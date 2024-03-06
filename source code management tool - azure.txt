@@ -1,0 +1,9 @@
+source code management tool - azure repos 
+work tracking items - azure boards
+ci/cd - azure pipelines
+containerisation - docker
+deployments - kubernetes
+monitoring - app insight
+
+azurecloud url - portal.azure.com
+azuredevops url - dev.azure.com
